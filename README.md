@@ -1,3 +1,3 @@
 # American Hand Sign Dataset
 
-http://github.com - automatic!
+[GitHub](http://github.com)
